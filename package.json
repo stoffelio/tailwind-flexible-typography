@@ -1,6 +1,6 @@
 {
-  "name": "tailwind-flexible-typography",
-  "version": "0.1.0",
+  "name": "@stoffelio/tailwind-flexible-typography",
+  "version": "0.1.1",
   "description": "A flexible approach for global typography settings for tailwind sites, including fluid font sizes",
   "main": "index.js",
   "scripts": {
