@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-flexible-typography",
+  "version": "0.1.0",
+  "description": "A flexible approach for global typography settings for tailwind sites, including fluid font sizes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoffelio/tailwind-flexible-typography.git"
+  },
+  "keywords": [
+    "tailwind",
+    "typography",
+    "fluid"
+  ],
+  "author": "Alexander Stoffel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoffelio/tailwind-flexible-typography/issues"
+  },
+  "homepage": "https://github.com/stoffelio/tailwind-flexible-typography#readme"
+}
